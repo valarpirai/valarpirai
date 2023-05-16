@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently a Staff Engineer at [Braintree Payments, a PayPal Service](https://www.braintreepayments.com)
-- 🌱 Skills: Ruby on Rails, Java, Javascript, Go, Kubernetes, Docker, AWS, MySQL, Redis
+- 🔭 I’m currently a Staff Engineer at [PayPal](https://www.paypal.com/)
+- 🌱 Skills: Ruby on Rails, Java Spring Boot, Javascript, NodeJS, Go, Kubernetes, Docker, AWS, MySQL, Redis
+- 🌱 Expertise: Web application development, Scalability & high-availability, Product Design & Engineering
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/valarpirai), email: a-dot-valarpirai-at-gmail-dot-com
 - 😄 Pronouns: he/him
-
