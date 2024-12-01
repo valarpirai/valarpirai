@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a Lead Software Engineer at [SuperOps](https://www.superops.com/)
 - 🌱 Skills: Ruby on Rails, Java Spring Boot, Javascript, NodeJS, Go, Kubernetes, Docker, AWS, MySQL, Redis
-- 🌱 Expertise: Web application development, Scalability & high-availability, Product Design & Engineering
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/valarpirai), email: a-dot-valarpirai-at-gmail-dot-com
+- 🌱 Expertise: Web application development, SaaS(Software as a Service), Scalability & high-availability, Product Design & Engineering
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/valarpirai), email: a-dot-valarpirai-at-gmail-dot-com (a.valarpirai@gmail.com)
 - 😄 Pronouns: he/him
 
 
