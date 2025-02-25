@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valarpirai)](https://git.io/streak-stats)
 [![GitHub Stars](https://github-readme-stats.vercel.app/api?username=valarpirai)]()
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valarpirai)]()
