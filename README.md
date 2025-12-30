@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as a Staff Software Engineer at [ServiceNow](servicenow.com)
+- 🔭 I’m currently working as a Staff Software Engineer at [ServiceNow](https://www.servicenow.com)
 - 🌱 Skills: Java Spring Boot, Javascript/TypeScript, Python, NodeJS, Docker, Kubernetes, AWS, MySQL, PostgreSQL, Redis, ElasticSearch, Kafka
 - 🌱 Expertise: ML/AI, LLM, SaaS(Software as a Service), Product Design & Engineering, Scalability & High-Availability, Observability, Web application development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/valarpirai), email: a-dot-valarpirai-at-gmail-dot-com (a.valarpirai@gmail.com)
